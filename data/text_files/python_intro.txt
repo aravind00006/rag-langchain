@@ -1,0 +1,8 @@
+ Python is a high-level, general-purpose programming language designed with a clear philosophy: code should be easy to read, write, and understand. Created by Guido van Rossum and first released in 1991, Python was built to reduce the mental overhead of programming. Instead of forcing developers to think constantly about syntax and boilerplate, Python lets them focus on solving problems. This design choice is the main reason Python has become one of the most widely used programming languages in the world.
+
+One of Python’s defining features is its readability. Python code is intentionally close to plain English, using simple keywords and minimal punctuation. Unlike many languages that rely on braces or semicolons, Python uses indentation to define code blocks. This enforces clean, consistent structure and makes programs easier to follow. While this may feel restrictive at first, it quickly becomes an advantage because poorly structured code simply won’t run.
+
+Python is an interpreted language, meaning code is executed line by line rather than compiled into machine code beforehand. This allows for rapid development and experimentation. Developers can write code, run it immediately, and see results without a long compilation step. This feedback loop makes Python ideal for learning, prototyping, scripting, and exploratory programming.
+
+Another major strength of Python is its dynamic typing. Variables do not require explicit type declarations; Python determines types at runtime. This reduces verbosity and speeds up development, though it also requires programmers to be disciplined and thoughtful about how data flows through their programs. Dynamic typing makes Python flexible and expressive, especially for complex applications.
+              
